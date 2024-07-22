@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+aiohttp
+pydantic
+beautifulsoup4
+pytest
+pytest-asyncio
+redis
+python-dotenv

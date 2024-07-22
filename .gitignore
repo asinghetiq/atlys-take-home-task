@@ -139,6 +139,8 @@ venv.bak/
 
 # mkdocs documentation
 /site
+products.json
+/product_images
 
 # mypy
 .mypy_cache/
